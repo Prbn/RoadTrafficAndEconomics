@@ -13,9 +13,9 @@ GIS Analysis of Traffic Volume and Economic Indicators
 This GIS project integrates traffic volume data with economic and demographic indicators to explore spatial patterns and correlations. By leveraging GIS methodologies, we aim to uncover insights into the relationship between transportation trends and economic activity.
 
 ## Objectives:
-1.	Map and analyze spatial variations in traffic volume across regions and cities.
-2.	Identify spatial correlations between traffic volume and economic indicators like GDP, employment rates, and consumer behavior.
-3.	Conduct temporal-spatial analysis to detect trends, seasonal variations, and significant events.
+1. Map and analyze spatial variations in traffic volume across regions and cities.
+2. Identify spatial correlations between traffic volume and economic indicators like GDP, employment rates, and consumer behavior.
+3. Conduct temporal-spatial analysis to detect trends, seasonal variations, and significant events.
 
 ## Table of Contents
 1. [Introduction](#introduction)  
@@ -33,9 +33,9 @@ This GIS project integrates traffic volume data with economic and demographic in
 This GIS-based study explores traffic volume trends as a spatial and economic phenomenon. Using traffic data overlaid with economic and demographic indicators, we identify patterns that reflect regional economic dynamics and transportation behaviors.
 
 ## Project Goals:
-	•	Collect, preprocess, and standardize traffic and economic data for GIS compatibility.
-	•	Use GIS tools to visualize and analyze spatial patterns and temporal trends.
-	•	Perform statistical and spatial correlation analyses to identify significant relationships.
+- Collect, preprocess, and standardize traffic and economic data for GIS compatibility.  
+- Use GIS tools to visualize and analyze spatial patterns and temporal trends.  
+- Perform statistical and spatial correlation analyses to identify significant relationships.
 
 ## Datasets and GIS Layers:
 
