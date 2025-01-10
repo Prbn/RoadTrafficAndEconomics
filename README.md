@@ -38,6 +38,8 @@ This GIS-based study explores traffic volume trends as a spatial and economic ph
 - Perform statistical and spatial correlation analyses to identify significant relationships.
 
 ## Datasets and GIS Layers:
+![GIS visual selection](https://github.com/user-attachments/assets/f99f1d9b-72a0-431a-9e62-ef0570f4c574)
+
 
 ## Datasets and GIS Layers:
 - **Traffic Volume Data**:  
